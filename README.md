@@ -10,6 +10,9 @@ A [D1 mini](https://wiki.wemos.cc/products:d1:d1_mini) adapter board for [WowWee
 
 ![The bottom of the MiP D1 mini Pack](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/raw/master/images/bottom.png)
 
+## Installation
+Please see the [wiki](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/wiki) for up-to-date installation instructions.
+
 ## Disclaimer
 I am a hobbyiest sharing this designed-at-home board with fans of robotics, MiP and the ESP8266 wifi chip.  While I strive to make this board as useful and "right" as it can be, in no way shall I be responsible for any damage that may occur to your MiP or D1 mini either incidently or directly through the use of this board.  You use this board at your own risk.
 
