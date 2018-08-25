@@ -6307,6 +6307,10 @@ This footprint was designed to help hold the alignment of a through-hole compone
 </class>
 <class number="2" name="ground" width="0.6096" drill="0">
 </class>
+<class number="3" name="TX" width="0.6096" drill="0">
+</class>
+<class number="4" name="RX" width="0.6096" drill="0">
+</class>
 </classes>
 <parts>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device=""/>
@@ -6357,7 +6361,7 @@ Samuel Trassare</text>
 <label x="91.44" y="76.2" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="RX" class="0">
+<net name="RX" class="4">
 <segment>
 <pinref part="JP11" gate="G$1" pin="3"/>
 <wire x1="91.44" y1="78.74" x2="124.46" y2="78.74" width="0.1524" layer="91"/>
@@ -6367,7 +6371,7 @@ Samuel Trassare</text>
 <label x="91.44" y="78.74" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="TX" class="0">
+<net name="TX" class="3">
 <segment>
 <pinref part="JP11" gate="G$1" pin="2"/>
 <wire x1="91.44" y1="81.28" x2="127" y2="81.28" width="0.1524" layer="91"/>
